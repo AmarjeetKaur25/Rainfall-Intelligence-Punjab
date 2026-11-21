@@ -88,7 +88,7 @@ Rainfall_Crop_Risk_Punjab/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Rainfall-Intelligence-Punjab.git
+git clone https://github.com/AmarjeetKaur25/Rainfall-Intelligence-Punjab.git
 ```
 
 ### 2. Navigate to the Project Directory
